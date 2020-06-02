@@ -54,17 +54,19 @@ var products = [
 		},
 		{
 		name: "bananas",
+		organic: true,
 		vegetarian: true,
 		glutenFree: true,
 		price: 1.45
-		organic: true,
+		
 		},
 		{
 		name: "apples",
+		organic: true,
 		vegetarian: true,
 		glutenFree: true,
 		price: 1.15
-		organic: true,
+		
 
 		}
 ];
