@@ -57,12 +57,14 @@ var products = [
 		vegetarian: true,
 		glutenFree: true,
 		price: 1.45
+		organic: true,
 		},
 		{
 		name: "apples",
 		vegetarian: true,
 		glutenFree: true,
 		price: 1.15
+		organic: true,
 
 		}
 ];
@@ -82,6 +84,9 @@ function restrictListProducts(prods, restriction) {
 			product_names.push(prods[i].name);
 		}
 		else if ((restriction == "Both") && (prods[i].glutenFree == true) && (prods[i].vegetarian == true)){
+			product_names.push(prods[i].name);
+		}
+		else if ((restriction == "Organic") && (prods[i].organic == true)){
 			product_names.push(prods[i].name);
 		}
 		else if (restriction == "None"){
