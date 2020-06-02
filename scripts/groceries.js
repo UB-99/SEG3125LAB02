@@ -4,56 +4,56 @@
 
 var products = [
 	{
-		name: "brocoli",
+		name: "brocoli 1.99",
 		vegetarian: true,
 		glutenFree: true,
 		price: 1.99
 	},
 	{
-		name: "bread",
+		name: "bread 2.35",
 		vegetarian: true,
 		glutenFree: false,
 		price: 2.35
 	},
 	{
-		name: "salmon",
+		name: "salmon 10.00",
 		vegetarian: false,
 		glutenFree: true,
 		price: 10.00
 	},
 			{
-		name: "hamburguer",
+		name: "hamburguer 15.00",
 		vegetarian: false,
 		glutenFree: false,
 		price: 15.00
 		},
 		{
 
-		name: "beef",
+		name: "beef 17.65",
 		vegetarian: false,
 		glutenFree: true,
 		price: 17.65
 		},
 		{
-		name: "milk",
+		name: "milk 5.25",
 		vegetarian: true,
 		glutenFree: true,
 		price: 5.25
 		},
 		{
-		name: "tofu",
+		name: "tofu 3.90",
 		vegetarian: true,
 		glutenFree: false,
 		price: 3.90
 		},
 		{
-		name: "pasta",
+		name: "pasta 7.85",
 		vegetarian: true,
 		glutenFree: false,
 		price: 7.85
 		},
 		{
-		name: "bananas",
+		name: "bananas 1.45",
 		organic: true,
 		vegetarian: true,
 		glutenFree: true,
@@ -61,7 +61,7 @@ var products = [
 		
 		},
 		{
-		name: "apples",
+		name: "apples 1.15",
 		organic: true,
 		vegetarian: true,
 		glutenFree: true,
