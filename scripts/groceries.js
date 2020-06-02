@@ -8,63 +8,7 @@ var products = [
 		vegetarian: true,
 		glutenFree: true,
 		price: 1.99
-	},
-	{
-		name: "bread",
-		vegetarian: true,
-		glutenFree: false,
-		price: 2.35
-	},
-	{
-		name: "salmon",
-		vegetarian: false,
-		glutenFree: true,
-		price: 10.00
-	},
-			{
-		name: "hamburguer",
-		vegetarian: false,
-		glutenFree: false,
-		price: 15.00
-		},
-		{
-
-		name: "beef",
-		vegetarian: false,
-		glutenFree: true,
-		price: 17.65
-		},
-		{
-		name: "milk",
-		vegetarian: true,
-		glutenFree: true,
-		price: 5.25
-		},
-		{
-		name: "tofu",
-		vegetarian: true,
-		glutenFree: false,
-		price: 3.90
-		},
-		{
-		name: "pasta",
-		vegetarian: true,
-		glutenFree: false,
-		price: 7.85
-		},
-		{
-		name: "bananas",
-		vegetarian: true,
-		glutenFree: true,
-		price: 1.45
-		},
-		{
-		name: "Apples",
-		vegetarian: true,
-		glutenFree: true,
-		price: 1.15
-
-		}
+	}
 ];
 	
 
