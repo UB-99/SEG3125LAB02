@@ -117,5 +117,6 @@ function getTotalPrice(chosenProducts) {
 	}
 	pennies = totalPrice * 100;
 	totalPrice = Math.ceil(pennies)/100;
+	totalPrice.toFixed();
 	return totalPrice;
 }
