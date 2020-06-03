@@ -3,71 +3,80 @@
 // A set of ingredients should be added to products		 
 
 var products = [
-	{
-		name: "brocoli 1.99",
+		{
+		name: "Apples 1.15",
+		organic: true,
 		vegetarian: true,
 		glutenFree: true,
-		price: 1.99
-	},
-	{
-		name: "bread 2.35",
-		vegetarian: true,
-		glutenFree: false,
-		price: 2.35
-	},
-	{
-		name: "salmon 10.00",
-		vegetarian: false,
-		glutenFree: true,
-		price: 10.00
-	},
-			{
-		name: "hamburguer 15.00",
-		vegetarian: false,
-		glutenFree: false,
-		price: 15.00
+		price: 1.15
 		},
-		{
-
-		name: "beef 17.65",
-		vegetarian: false,
-		glutenFree: true,
-		price: 17.65
-		},
-		{
-		name: "milk 5.25",
-		vegetarian: true,
-		glutenFree: true,
-		price: 5.25
-		},
-		{
-		name: "tofu 3.90",
-		vegetarian: true,
-		glutenFree: false,
-		price: 3.90
-		},
-		{
-		name: "pasta 7.85",
-		vegetarian: true,
-		glutenFree: false,
-		price: 7.85
-		},
-		{
-		name: "bananas 1.45",
+				{
+		name: "Bananas 1.45",
 		organic: true,
 		vegetarian: true,
 		glutenFree: true,
 		price: 1.45
 		
 		},
-		{
-		name: "apples 1.15",
-		organic: true,
-		vegetarian: true,
-		glutenFree: true,
-		price: 1.15
+		
 		
 
+{
+		name: "Brocoli 1.99",
+		vegetarian: true,
+		glutenFree: true,
+		price: 1.99
+	},
+	{
+		name: "Bread 2.35",
+		vegetarian: true,
+		glutenFree: false,
+		price: 2.35
+		
+		
+	},
+			{
+		name: "Tofu 3.90",
+		vegetarian: true,
+		glutenFree: false,
+		price: 3.90
+		},
+
+
+
+		{
+		name: "Milk 5.25",
+		vegetarian: true,
+		glutenFree: true,
+		price: 5.25
+		},
+
+		{
+		name: "Pasta 7.85",
+		vegetarian: true,
+		glutenFree: false,
+		price: 7.85
+		},
+		
+			{
+		name: "Salmon 10.00",
+		vegetarian: false,
+		glutenFree: true,
+		price: 10.00
+	},
+
+		{
+		name: "Hamburguer 15.00",
+		vegetarian: false,
+		glutenFree: false,
+		price: 15.00
+		},
+		{
+
+		name: "Beef 17.65",
+		vegetarian: false,
+		glutenFree: true,
+		price: 17.65
 		}
 ];
 	
